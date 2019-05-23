@@ -1,0 +1,38 @@
+$colorWhite: #fff;
+$colorBack: #1a0000;
+$colorRed: #c00;
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	max-width: 1200px;
+	width: 100%;
+	background-color: $colorWhite;
+}
+
+.banner {
+	background-color: $colorBack;
+	text-align: center;
+	padding: 60px;
+	margin-bottom: 100px;
+}
+
+h1 {
+	color: $colorWhite;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 10px 10px 0 10px;
+	font-size: 90px;
+}
+
+h3 {
+	color: $colorRed;
+	font-size: 35px;
+}
+
+p {
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-left: 40px;
+}
