@@ -1,0 +1,4 @@
+autoprefixer-cli -o style.prefixed.css style.css
+
+node_modules/autoprefixer-cli/autoprefixer-cli -o css/style.prefixed.css css/style.css
+

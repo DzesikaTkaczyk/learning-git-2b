@@ -10,6 +10,7 @@ body {
   text-align: center;
   padding: 60px;
   margin-bottom: 90px;
+  display: -ms-flexbox;
   display: flex; }
 
 h1 {
@@ -34,4 +35,4 @@ p {
   margin-top: 60px;
   margin-bottom: 0; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
